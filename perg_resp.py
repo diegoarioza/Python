@@ -44,7 +44,7 @@ while True:
 		print("Voce acertou !!!")
 		del lista_full[busca_index_sorteado]
 	else:
-		print("Voce errou sua Gorda")
+		print("Voce errou !!!")
 		print("Resposta Correta é -> ", i, "-", sorteio[1])
 		time.sleep(2)
 	
