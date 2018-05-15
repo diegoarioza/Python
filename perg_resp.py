@@ -9,7 +9,7 @@ rodar = True
 
 lista_full = []
 
-lista_frases = open('lista.txt','r')
+lista_frases = open('lista.txt','r', encoding="utf-8")
 lista_frases.seek(0)
 lista_frases = lista_frases.read().split('\n')
 
