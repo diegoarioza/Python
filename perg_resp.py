@@ -1,3 +1,6 @@
+# @uthor: Diego Narducci Arioza
+# Versão: 0.1a
+
 import random
 import time
 import os
