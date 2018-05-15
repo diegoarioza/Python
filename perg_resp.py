@@ -19,7 +19,6 @@ for i in lista_frases:
 len_lista = len(lista_full)
 
 while True:
-		
 	sorteio = random.choice(lista_full)
 	busca_index_sorteado = lista_full.index(sorteio)
 	sorteio_n = random.choice(range(1,5))
@@ -54,4 +53,3 @@ while True:
 	time.sleep(2)
 	os.system('clear')
 	os.system('cls')
-
