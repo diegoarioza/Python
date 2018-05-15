@@ -53,4 +53,5 @@ while True:
 	
 	time.sleep(2)
 	os.system('clear')
+	os.system('cls')
 
